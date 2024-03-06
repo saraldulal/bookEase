@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1709691019 source:d:\bookease\main.cpp
+	<iostream>
+	<string>
+	<unordered_map>
+	<vector>
+	<algorithm>
+
